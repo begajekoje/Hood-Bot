@@ -1,5 +1,0 @@
-{
-    "build": "pip install -r requirements.txt",
-    "start": "python xo_discord_bot.py"
-  }
-  
